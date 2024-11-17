@@ -20,9 +20,12 @@
 
 ![Streamlit Dashboard demo](out/demo.png)
 
-| Primary                            | Promotions                            | Social                            | Updates                            |
-| ---------------------------------- | ------------------------------------- | --------------------------------- | ---------------------------------- |
-| ![alt text](out/gmail_primary.png) | ![alt text](out/gmail_promotions.png) | ![alt text](out/gmail_social.png) | ![alt text](out/gmail_updates.png) |
+| category   | mails                                 |
+| ---------- | ------------------------------------- |
+| Primary    | ![alt text](out/gmail_primary.png)    |
+| Promotions | ![alt text](out/gmail_promotions.png) |
+| Social     | ![alt text](out/gmail_social.png)     |
+| Updates    | ![alt text](out/gmail_updates.png)    |
 
 # Additional Details
 
