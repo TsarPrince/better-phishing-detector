@@ -31,4 +31,4 @@
 
 - Training code - https://colab.research.google.com/drive/1Ua51-Qu1MlruYjbXdlHR4Z47C-JspWDd
 
-- Testing code - https://colab.research.google.com/drive/1JGvJK3w7MGvaDyPeC1lBV8uhbWjL-b4l?authuser=1#scrollTo=b01-uqg5RCqo
+- Testing code - https://colab.research.google.com/drive/1JGvJK3w7MGvaDyPeC1lBV8uhbWjL-b4l
